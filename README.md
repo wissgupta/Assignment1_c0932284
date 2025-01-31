@@ -33,3 +33,22 @@ assignment_1
 
 **Instructions to run code**
 
+Step 1: clone the repository
+
+--> git clone git@github.com:wissgupta/Assignment1_c0932284.git
+
+Step 2: Open cloned folder in intellijIdea
+
+--> Ensure the JDK is correctly set up:
+--> Go to File > Project Structure > Project.
+--> Set Project SDK to JDK 17 (or your installed version).
+
+Step 3: Run the Main Program
+
+--> navigate to src/main/java/assignment/Main.java
+--> run the main class
+
+Step 4: Run Unit Tests
+
+--> navigate to src/test/java/assignment/
+--> Click Run 'DogTest' and Run 'PersonTest'
